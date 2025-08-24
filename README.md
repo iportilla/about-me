@@ -47,7 +47,7 @@ Estoy muy orgulloso del trabajo de mis alumnos:
 ---
 
 ## Connect | Conecta conmigo
-- GitHub: [@jportilla](https://github.com/iportilla/giveback)  
+- GitHub: [@iportilla](https://github.com/iportilla/giveback)  
 - LinkedIn: [Ivan Portilla](https://www.linkedin.com/in/ivanportilla/)  
 - Email: [portilla@gmail.com](mailto:portilla@gmail.com)  
 
