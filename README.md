@@ -4,7 +4,7 @@ I’m an AI Leader at Ricoh and a Lecturer at the University of Colorado Boulder
 Soy líder en Inteligencia Artificial en Ricoh USA y catedrático en la Universidad de Colorado Boulder.  
 
 My work focuses on applied deep learning, generative AI, and agentic AI systems, bridging industry, research, and teaching.  
-Mi trabajo se centra en deep learning aplicado, inteligencia artificial generativa y sistemas agentic AI, uniendo industria, investigación y enseñanza.  
+Mi trabajo se centra en aprendizaje profundo (deep learning) aplicado, inteligencia artificial generativa y sistemas agentic AI, uniendo industria, investigación y enseñanza.  
 
 ---
 
