@@ -3,8 +3,8 @@
 I’m an AI Leader at Ricoh and a Lecturer at the University of Colorado Boulder.  
 Soy líder en Inteligencia Artificial en Ricoh USA y catedrático en la Universidad de Colorado Boulder.  
 
-My work focuses on applied deep learning, generative AI, and agentic AI systems, bridging industry, research, and teaching.  
-Mi trabajo se centra en aprendizaje profundo (deep learning) aplicado, inteligencia artificial generativa y sistemas agentic AI, uniendo industria, investigación y enseñanza.  
+My work focuses on **pplied deep learning, generative AI, and agentic AI systems**, bridging industry, research, and teaching.  
+Mi trabajo se centra en el **aprendizaje profundo aplicado, la inteligencia artificial generativa y los sistemas de IA agentica**, uniendo la industria, la investigación y la enseñanza 
 
 ---
 
@@ -15,6 +15,9 @@ Mi trabajo se centra en aprendizaje profundo (deep learning) aplicado, inteligen
 - Lead AI initiatives in industrial printing, predictive maintenance, and knowledge automation  
 - Líder de iniciativas de IA en impresión industrial, mantenimiento predictivo y automatización del conocimiento  
 
+- Winner of the **2025 IBM TechXchange Excellence Award** in Open Source.
+- Ganador del **Premio a la Excelencia IBM TechXchange 2025** en Código Abierto
+- 
 - Recipient of the **Marinus Smith Award** from CU Boulder for contributions to student success  
 - Ganador del **Premio Marinus Smith** de CU Boulder por contribuciones al éxito estudiantil  
 
@@ -24,9 +27,12 @@ Mi trabajo se centra en aprendizaje profundo (deep learning) aplicado, inteligen
 ---
 
 ## In the News | En los medios
+- [IBM TechXchange 2025 Excellence Awards and Closing Ceremony](https://mediacenter.ibm.com/media/1_tm7h3nr8) | [Ceremonia de Clausura y Premios a la Excelencia IBM TechXchange 2025](https://mediacenter.ibm.com/media/1_tm7h3nr8)
+- [Coverage of CU Boulder teaching award](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award) | [Cobertura del premio de enseñanza en CU Boulder](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award)
+- [Article on teaching about AI](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811) | [Artículo sobre enseñanza de IA ](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811)     
 - [Local newspaper interview on AI and education](https://www.lhvc.com/story/2024/11/13/education/ai-and-the-impact-on-our-local-schools/9881.html) | [Entrevista en periódico local sobre IA y educación](https://www.lhvc.com/story/2024/11/13/education/ai-and-the-impact-on-our-local-schools/9881.html)
-- [Article on teaching AI](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811) | [Artículo sobre enseñanza de IA ](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811)  
-- [Coverage of CU Boulder teaching award](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award) | [Cobertura del premio de enseñanza en CU Boulder](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award)   
+
+
 
 ---
 
@@ -38,7 +44,7 @@ Mi trabajo se centra en aprendizaje profundo (deep learning) aplicado, inteligen
 ---
 
 ## CU Boulder Student Projects | Proyectos de estudiantes CU Boulder
-I’m proud to highlight the work of my students:  
+I’m proud to highlight the work of some of my students:  
 Estoy muy orgulloso del trabajo de mis alumnos:  
 
 - Claire – [Project video](https://drive.google.com/file/d/17mOhYfMYzizF3gwvPI0JGOm_ssxC7J9J/view?usp=sharing) | [Video del proyecto](https://drive.google.com/file/d/17mOhYfMYzizF3gwvPI0JGOm_ssxC7J9J/view?usp=sharing)
