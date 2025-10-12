@@ -1,4 +1,4 @@
-# Hi, I’m Ivan Portilla | Hola, soy Ivan Portilla
+# Hi, I’m Ivan Portilla | Hola, soy Iván Portilla
 
 I’m an AI Leader at Ricoh and a Lecturer at the University of Colorado Boulder.  
 Soy líder en Inteligencia Artificial en Ricoh USA y catedrático en la Universidad de Colorado Boulder.  
