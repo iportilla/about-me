@@ -1,16 +1,16 @@
 # Hi, I’m Ivan Portilla | Hola, soy Iván Portilla
 
-I’m an AI Leader at Ricoh and a Lecturer at the University of Colorado Boulder.  
-Soy líder en Inteligencia Artificial en Ricoh USA y catedrático en la Universidad de Colorado Boulder.  
+I’m an AI Leader at **Ricoh USA** and a Lecturer at the **University of Colorado Boulder**.  
+Soy líder en Inteligencia Artificial en **Ricoh USA** y catedrático en la **Universidad de Colorado Boulder**.  
 
-My work focuses on **pplied deep learning, generative AI, and agentic AI systems**, bridging industry, research, and teaching.  
+My work focuses on **applied deep learning, generative AI, and agentic AI systems**, bridging industry, research, and teaching.  
 Mi trabajo se centra en el **aprendizaje profundo aplicado, la inteligencia artificial generativa y los sistemas de IA agentica**, uniendo la industria, la investigación y la enseñanza 
 
 ---
 
 ## About Me | Sobre mí
-- Teach *Applied Deep Learning (STAT 5350)* and mentor students in AI projects  
-- Profesor del curso *Applied Deep Learning (STAT 5350)* y mentor de estudiantes en proyectos de IA  
+- Teach **Applied Deep Learning (STAT 5350)** and mentor students in AI projects  
+- Profesor del curso **Applied Deep Learning (STAT 5350)** y mentor de estudiantes en proyectos de IA  
 
 - Lead AI initiatives in industrial printing, predictive maintenance, and knowledge automation  
 - Líder de iniciativas de IA en impresión industrial, mantenimiento predictivo y automatización del conocimiento  
@@ -31,7 +31,6 @@ Mi trabajo se centra en el **aprendizaje profundo aplicado, la inteligencia arti
 - [Coverage of CU Boulder teaching award](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award) | [Cobertura del premio de enseñanza en CU Boulder](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award)
 - [Article on teaching about AI](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811) | [Artículo sobre enseñanza de IA ](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811)     
 - [Local newspaper interview on AI and education](https://www.lhvc.com/story/2024/11/13/education/ai-and-the-impact-on-our-local-schools/9881.html) | [Entrevista en periódico local sobre IA y educación](https://www.lhvc.com/story/2024/11/13/education/ai-and-the-impact-on-our-local-schools/9881.html)
-
 
 
 ---
