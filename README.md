@@ -17,7 +17,7 @@ Mi trabajo se centra en el **aprendizaje profundo aplicado, la inteligencia arti
 
 - Winner of the **2025 IBM TechXchange Excellence Award** in Open Source.
 - Ganador del **Premio a la Excelencia IBM TechXchange 2025** en Código Abierto
-- 
+  
 - Recipient of the **Marinus Smith Award** from CU Boulder for contributions to student success  
 - Ganador del **Premio Marinus Smith** de CU Boulder por contribuciones al éxito estudiantil  
 
