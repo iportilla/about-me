@@ -37,7 +37,8 @@ Mi trabajo se centra en el **aprendizaje profundo aplicado, la inteligencia arti
 ---
 
 ## Talks & Media | Charlas y medios
-- [TEDx Talk: Exploring the Human-AI partnership](https://youtu.be/zmpXJ6ZwhQk?si=sKRrW1Lrc3gc5jUH)) | [TEDx: Explorando la colaboracíon de la humanidad con la IA](https://youtu.be/zmpXJ6ZwhQk?si=sKRrW1Lrc3gc5jUH)  
+- [TEDx Talk: Exploring the Human-AI partnership](https://youtu.be/zmpXJ6ZwhQk?si=sKRrW1Lrc3gc5jUH)) | [TEDx: Explorando la colaboracíon de la humanidad con la IA](https://youtu.be/zmpXJ6ZwhQk?si=sKRrW1Lrc3gc5jUH)
+- [IBM TechXchange 2025 Award](https://community.ibm.com/community/user/blogs/chloe-zgheib/2025/10/06/celebrating-the-ibm-techxchange-2025-award-winners) | (Premio de IBM 2025 TechXchange](https://community.ibm.com/community/user/blogs/chloe-zgheib/2025/10/06/celebrating-the-ibm-techxchange-2025-award-winners)
 - [Talk: American Society for Engineering Education ](https://www.colorado.edu/conference/aseerms2025/) | [Conferencia: Sociedad Americana de Educación en Ingeniería](https://www.colorado.edu/conference/aseerms2025/)
 - [Talk: Technical Association of the Graphic Arts](https://taga.org/conference) | [Conferencia: Sociedad Técnica de las Artes Gráficas](https://taga.org/conference)
 
