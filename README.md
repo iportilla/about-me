@@ -27,6 +27,7 @@ Mi trabajo se centra en el **aprendizaje profundo aplicado, la inteligencia arti
 ---
 
 ## In the News | En los medios
+- [University of Colorado - Faculty & Staff news](https://www.colorado.edu/engineering-facultystaff/newsletter/engineering-communications-marketing/oct-18-2025) | [Noticias de la Universidad de Colorado Boulder](https://www.colorado.edu/engineering-facultystaff/newsletter/engineering-communications-marketing/oct-18-2025)
 - [IBM TechXchange 2025 Excellence Awards and Closing Ceremony](https://mediacenter.ibm.com/media/1_tm7h3nr8) | [Ceremonia de Clausura y Premios a la Excelencia IBM TechXchange 2025](https://mediacenter.ibm.com/media/1_tm7h3nr8)
 - [Coverage of CU Boulder teaching award](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award) | [Cobertura del premio de enseñanza en CU Boulder](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award)
 - [Article on teaching about AI](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811) | [Artículo sobre enseñanza de IA ](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811)     
