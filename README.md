@@ -1,7 +1,7 @@
 # Hi, I’m Ivan Portilla | Hola, soy Iván Portilla
 
-I’m an AI Leader at **Ricoh USA** and a Lecturer at the **University of Colorado Boulder**.  
-Soy líder en Inteligencia Artificial en **Ricoh USA** y catedrático en la **Universidad de Colorado Boulder**.  
+I am an AI leader and Lecturer at the **University of Colorado Boulder**.  
+Soy líder en Inteligencia Artificial y catedrático en la **Universidad de Colorado Boulder**.  
 
 My work focuses on **applied deep learning, generative AI, and agentic AI systems**, bridging industry, research, and teaching.  
 Mi trabajo se centra en el **aprendizaje profundo aplicado, la inteligencia artificial generativa y los sistemas de IA agentica**, uniendo la industria, la investigación y la enseñanza 
