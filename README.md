@@ -1,61 +1,84 @@
-# Hi, I’m Ivan Portilla | Hola, soy Iván Portilla
+# Ivan Portilla
 
-I am an AI leader and Lecturer at the **University of Colorado Boulder**.  
-Soy líder en Inteligencia Artificial y catedrático en la **Universidad de Colorado Boulder**.  
-
-My work focuses on **applied deep learning, generative AI, and agentic AI systems**, bridging industry, research, and teaching.  
-Mi trabajo se centra en el **aprendizaje profundo aplicado, la inteligencia artificial generativa y los sistemas de IA agentica**, uniendo la industria, la investigación y la enseñanza 
+**AI Leader | Lecturer | Applied Deep Learning & Generative AI**  
+University of Colorado Boulder · Boulder, CO
 
 ---
 
-## About Me | Sobre mí
-- Teach **Applied Deep Learning (STAT 5350)** and mentor students in AI projects  
-- Profesor del curso **Applied Deep Learning (STAT 5350)** y mentor de estudiantes en proyectos de IA  
+## Professional Summary
 
-- Lead AI initiatives in industrial printing, predictive maintenance, and knowledge automation  
-- Líder de iniciativas de IA en impresión industrial, mantenimiento predictivo y automatización del conocimiento  
-
-- Winner of the **2025 IBM TechXchange Excellence Award** in Open Source.
-- Ganador del **Premio a la Excelencia IBM TechXchange 2025** en Código Abierto
-  
-- Recipient of the **Marinus Smith Award** from CU Boulder for contributions to student success  
-- Ganador del **Premio Marinus Smith** de CU Boulder por contribuciones al éxito estudiantil  
-
-- Speaker at conferences including TEDx, ASEE, and TAGA  
-- Conferencista en eventos como TEDx, ASEE y TAGA  
+I am an AI practitioner, educator, and award-winning innovator with a track record of delivering impact across industry, academia, and community. At the University of Colorado Boulder, I design and teach graduate and undergraduate courses in applied deep learning and AI systems, while simultaneously leading enterprise AI initiatives in industrial printing, predictive maintenance, and knowledge automation. My work bridges cutting-edge research and real-world deployment, making complex AI accessible and actionable across diverse audiences.
 
 ---
 
-## In the News | En los medios
-- [University of Colorado - Faculty & Staff news](https://www.colorado.edu/engineering-facultystaff/newsletter/engineering-communications-marketing/oct-18-2025) | [Noticias de la Universidad de Colorado Boulder](https://www.colorado.edu/engineering-facultystaff/newsletter/engineering-communications-marketing/oct-18-2025)
-- [IBM TechXchange 2025 Excellence Awards and Closing Ceremony](https://mediacenter.ibm.com/media/1_tm7h3nr8) | [Ceremonia de Clausura y Premios a la Excelencia IBM TechXchange 2025](https://mediacenter.ibm.com/media/1_tm7h3nr8)
-- [Coverage of CU Boulder teaching award](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award) | [Cobertura del premio de enseñanza en CU Boulder](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award)
-- [Article on teaching about AI](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811) | [Artículo sobre enseñanza de IA ](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811)     
-- [Local newspaper interview on AI and education](https://www.lhvc.com/story/2024/11/13/education/ai-and-the-impact-on-our-local-schools/9881.html) | [Entrevista en periódico local sobre IA y educación](https://www.lhvc.com/story/2024/11/13/education/ai-and-the-impact-on-our-local-schools/9881.html)
+## Areas of Expertise
 
-
----
-
-## Talks & Media | Charlas y medios
-- [TEDx Talk: Exploring the Human-AI partnership](https://youtu.be/zmpXJ6ZwhQk?si=sKRrW1Lrc3gc5jUH) | [TEDx: Explorando la colaboracíon de la humanidad con la IA](https://youtu.be/zmpXJ6ZwhQk?si=sKRrW1Lrc3gc5jUH)
-- [IBM TechXchange 2025 Award](https://community.ibm.com/community/user/blogs/chloe-zgheib/2025/10/06/celebrating-the-ibm-techxchange-2025-award-winners) | [Premio de IBM 2025 TechXchange](https://community.ibm.com/community/user/blogs/chloe-zgheib/2025/10/06/celebrating-the-ibm-techxchange-2025-award-winners)
-- [Talk: American Society for Engineering Education ](https://www.colorado.edu/conference/aseerms2025/) | [Conferencia: Sociedad Americana de Educación en Ingeniería](https://www.colorado.edu/conference/aseerms2025/)
-- [Talk: Technical Association of the Graphic Arts](https://taga.org/conference) | [Conferencia: Sociedad Técnica de las Artes Gráficas](https://taga.org/conference)
+- Applied Deep Learning & Generative AI
+- Agentic AI Systems & Workflow Automation
+- AI Curriculum Design & Instructional Leadership
+- Large Language Models (LLMs) & RAG Architectures
+- Azure AI Platform (OpenAI, AI Search, Prompt Flow, Logic Apps)
+- NLP, Classification, and Active Learning Pipelines
+- Cross-functional Team Leadership & Stakeholder Communication
 
 ---
 
-## CU Boulder Student Projects | Proyectos de estudiantes CU Boulder
-I’m proud to highlight the work of some of my students:  
-Estoy muy orgulloso del trabajo de mis alumnos:  
+## Academic Roles
 
-- Claire – [Project video](https://drive.google.com/file/d/17mOhYfMYzizF3gwvPI0JGOm_ssxC7J9J/view?usp=sharing) | [Video del proyecto](https://drive.google.com/file/d/17mOhYfMYzizF3gwvPI0JGOm_ssxC7J9J/view?usp=sharing)
-- Siva – [Project video](https://drive.google.com/file/d/1r64jQq5OMBYMcC8v16HIuvIfxueZaoDi/view?usp=sharing)) | [Video del proyecto](https://drive.google.com/file/d/1r64jQq5OMBYMcC8v16HIuvIfxueZaoDi/view?usp=sharing)
+**Lecturer — University of Colorado Boulder**
+
+- **STAT 5350: Applied Deep Learning** — Graduate-level course covering neural architectures, model training, and deployment
+- **ORGN 4210: Systems Thinking with AI** — Undergraduate course focused on AI workflows, team dynamics, and organizational integration
+- Faculty mentor for student capstone and applied AI projects
+
+---
+
+## Industry Experience
+
+- Led AI strategy and technical implementation for industrial printing and predictive maintenance domains
+- Built knowledge automation systems integrating LLMs with enterprise data pipelines
+- Designed and deployed RAG solutions on Azure AI Search with managed identity and secure authentication
 
 ---
 
-## Connect | Conecta conmigo
-- GitHub: [@iportilla](https://github.com/iportilla/giveback)  
-- LinkedIn: [Ivan Portilla](https://www.linkedin.com/in/ivanportilla/)  
-- Email: [portilla@gmail.com](mailto:portilla@gmail.com)  
+## Recognition & Awards
+
+- **2025 IBM TechXchange Excellence Award** — Open Source category
+- **Marinus Smith Award**, University of Colorado Boulder — Awarded for outstanding contributions to student success
 
 ---
+
+## Speaking & Thought Leadership
+
+- **TEDx Talk:** [Exploring the Human-AI Partnership](https://youtu.be/zmpXJ6ZwhQk?si=sKRrW1Lrc3gc5jUH)
+- **ASEE (American Society for Engineering Education):** [AI in Engineering Education](https://www.colorado.edu/conference/aseerms2025/)
+- **TAGA (Technical Association of the Graphic Arts):** [AI Applications in Graphic Arts](https://taga.org/conference)
+- **IBM TechXchange 2025:** [Award Ceremony Presenter](https://mediacenter.ibm.com/media/1_tm7h3nr8)
+
+---
+
+## In the News
+
+- [CU Boulder Faculty & Staff Newsletter](https://www.colorado.edu/engineering-facultystaff/newsletter/engineering-communications-marketing/oct-18-2025)
+- [IBM TechXchange 2025 Excellence Awards](https://community.ibm.com/community/user/blogs/chloe-zgheib/2025/10/06/celebrating-the-ibm-techxchange-2025-award-winners)
+- [Marinus Smith Award Coverage — CU Boulder](https://www.colorado.edu/amath/2025/04/30/ivan-portilla-and-kris-pruitt-awarded-marinus-smith-award)
+- [AI in K-12 Education — Longmont Leader](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811)
+- [AI and Local Schools — LHVC](https://www.lhvc.com/story/2024/11/13/education/ai-and-the-impact-on-our-local-schools/9881.html)
+
+---
+
+## Student Work
+
+Selected student project highlights from CU Boulder:
+
+- Claire — [Capstone Project Video](https://drive.google.com/file/d/17mOhYfMYzizF3gwvPI0JGOm_ssxC7J9J/view?usp=sharing)
+- Siva — [Capstone Project Video](https://drive.google.com/file/d/1r64jQq5OMBYMcC8v16HIuvIfxueZaoDi/view?usp=sharing)
+
+---
+
+## Connect
+
+-  [LinkedIn](https://www.linkedin.com/in/ivanportilla/)
+- [GitHub — @iportilla](https://github.com/iportilla/giveback)
+- [portilla@gmail.com](mailto:portilla@gmail.com)
+
